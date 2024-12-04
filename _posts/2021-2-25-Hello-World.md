@@ -5,6 +5,7 @@ category: HelloGovernor
 date: 2021-2-25
 tags: governance
 permalink: /HelloGovernor/HelloWorld
+original_url: https://buttondown.com/HelloGovernor/archive/february-2021-hello-world/
 ---
 
 Hello, and welcome to the very first edition of this newsletter!
