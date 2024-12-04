@@ -2,12 +2,11 @@
 ---
 layout: post
 title: Hello World
-categories: [HelloGovernor]
+category: HelloGovernor
 date: 2021-2-25
 tags: governance
+permalink: /HelloGovernor/HelloWorld
 ---
-
-
 
 Hello, and welcome to the very first edition of this newsletter!
 
