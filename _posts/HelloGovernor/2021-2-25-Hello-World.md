@@ -4,7 +4,7 @@ title: Hello World
 category: HelloGovernor
 date: 2021-2-25
 tags: governance
-permalink: /HelloGovernor/HelloWorld
+permalink: /HelloGovernor/february-2021-hello-world/
 original_url: https://buttondown.com/HelloGovernor/archive/february-2021-hello-world/
 ---
 
