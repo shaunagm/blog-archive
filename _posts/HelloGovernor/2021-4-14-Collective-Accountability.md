@@ -1,0 +1,41 @@
+---
+layout: post
+title: Collective Accountability in Digital Spaces
+category: HelloGovernor
+date: 2021-4-14
+tags: governance
+permalink: /HelloGovernor/collective-accountability-in-digital-spaces/
+original_url: https://buttondown.com/HelloGovernor/archive/collective-accountability-in-digital-spaces/
+---
+
+It can be a struggle to hold groups accountable for misbehavior, even when the group is structured through legal forms, with public membership and clear leadership. On social media platforms populated by anonymous accounts, with membership and leadership often informal and invisible, accountability feels like a pipe dream.
+
+And yet we urgently need accountability - for misinformation, for harassment, for exploitation, and for so much more. There is a deep anger towards social media platforms like Facebook and Twitter, both for their negligence in allowing these problems to spread, but also because expressing anger towards them is our only mechanism for regulating online behavior. Lacking other options, we resort to demanding that specific users be banned and specific behavior suppressed.
+
+Platforms protest - rightly, I believe - that they shouldn’t be in control of public debate. But this is also an evasion of responsibility. Companies _could_ design mechanisms of accountability into their platforms, allowing users themselves to collectively control debate, but they have chosen not to. I suspect that, for all their rhetoric about empowering users, they are afraid to let users control what they see. What if they made decisions that hurt the company’s bottom line?
+
+Whatever their reasons, the failure of social tech companies to design accountability into their platforms has created this crisis. To understand what they might do differently, we can look at two long-established websites that offer us a glimpse of what’s possible.
+
+[MetaFilter](https://www.metafilter.com/?utm_source=HelloGovernor&utm_medium=email&utm_campaign=collective-accountability-in-digital-spaces) is a community weblog founded in 1999; it’s small by modern standards, with at most a few thousand active users on any given day. It’s structured as a community weblog, and this “single source of truth” creates a shared sense of reality, which in turn creates an easier object for critique. Compare this to Twitter or Facebook, where everyone sees a different set of tweets and even hashtags, depending on who they follow and their previous behavior on the site. Because MetaFilter users have a shared reality to critique, there are regular debates over norms on the site, and efforts to address problematic patterns of behavior. This work is enhanced by having a moderation team with strong relationships to the community, who can be entrusted to carry out community decisions, but whose decisions can also be contested.
+
+Another website that has taken an alternative route is Wikipedia. Wikipedia’s path is different from MetaFilter’s: it is big where MetaFilter is small, has elected leadership where MetaFilter’s is appointed, and while MetaFilter charges a $5 signup fee, famously “anyone can edit” Wikipedia. Nevertheless, they share some things in common, including a tendency to reflect on their communities as a whole and take actions to improve it. The [Wikipedia article about Wikipedia](https://en.wikipedia.org/wiki/Wikipedia?utm_source=HelloGovernor&utm_medium=email&utm_campaign=collective-accountability-in-digital-spaces#Coverage_of_topics_and_systemic_bias) has a whole section dedicated to systemic bias on the site, which links to, among other resources, Wikipedia’s articles dedicated to [gender bias on Wikipedia](https://en.wikipedia.org/wiki/Gender_bias_on_Wikipedia?utm_source=HelloGovernor&utm_medium=email&utm_campaign=collective-accountability-in-digital-spaces) and [racial bias on Wikipedia](https://en.wikipedia.org/wiki/Racial_bias_on_Wikipedia?utm_source=HelloGovernor&utm_medium=email&utm_campaign=collective-accountability-in-digital-spaces) respectively.
+
+Both MetaFilter users and Wikipedia users are disciplined for bad behavior, but more importantly, each community sees itself as accountable for managing a shared resource: in the case of Wikipedia, a widely-used knowledge commons, for MetaFilter, the community itself.
+
+It’s worth noting that MetaFilter is an individually-owned LLC and Wikipedia a non-profit with a (partially) member-elected board. We may never see a VC-funded tech company that cares about accountability. But that doesn’t mean we’re powerless. In addition to supporting and using alternative platforms, we can “hack” existing platforms to add accountability.
+
+Let’s try a thought experiment, prompted by a real use case. During the 2020 Democratic primary, fighting on social media platforms got vicious. Bernie Sanders supporters were often [singled out as being especially aggressive](https://www.cnn.com/2020/02/07/politics/bernie-sanders-social-media-attacks-invs/index.html?utm_source=HelloGovernor&utm_medium=email&utm_campaign=collective-accountability-in-digital-spaces), a charge which Sanders supporters denied. Who was right? It’s impossible to tell. The design of Twitter and Facebook made it hard to even tell the scope of the problem, let alone intervene.
+
+Now, imagine the Sanders campaign created a social media ambassador program. Ambassadors promised to abide by certain norms and refrain from harassing behavior, and in turn they got a verified account on the campaign website, which they linked to in their social media profiles. Behavior which violated the campaign’s norms could be reported and, if the violation was severe or repeated, the ambassadors were expelled from the program. Perhaps a subsection of these ambassadors also volunteered to intervene in arguments online where non-ambassador Sanders supporters were behaving badly.
+
+Imagine that when you interacted with a Sanders supporter on Twitter and they threatened or mocked you, you could check their profile to see if they were an official ambassador. If they were, you could report them to the campaign; if they weren’t, you can tag in an ambassador to help mediate the dispute. Bad behavior would still happen, of course, but the Sanders campaign could reasonably say they were doing their best to stop it.
+
+This is just a thought experiment; I’m not saying this is what the Sanders campaign ought to have done. Efforts to organize relationships and legitimize speakers have their downsides, too, ones that I’m not really grappling with here.
+
+It might also feel unfair to ask this of the Sanders campaign in particular. Why should one campaign be held to such a high standard of accountability?
+
+In Philip Pettit’s article [Responsibility Incorporated](https://www.jstor.org/stable/10.1086/510695?utm_source=HelloGovernor&utm_medium=email&utm_campaign=collective-accountability-in-digital-spaces), he writes about _developmental regulation_. He gives as an example parents who allow their teenage daughter to stay out late but hold her responsible for not missing the last bus, all the while knowing she is likely to miss it. “\[B\]y treating the children as if they were fit to be held responsible, the parents may help to induce in them the sort of self-awareness and self-regulation that such fitness requires.” This process is also known as _responsibilization_, and Pettit argues that it can be applied to groups as well as to teenagers: “It may not be strictly appropriate to hold such loose groupings responsible, since various of the conditions necessary for fitness to be held responsible will be missing. But holding it responsible may actually prompt the grouping to incorporate and organize against the condemned behavior.”
+
+The progressive movement’s core values include embracing diversity and acting in solidarity despite our differences, along with government from below: mass empowerment, mass participation. All of these things require collective accountability. Even if we can’t reasonably expect it yet, we still ought to demand it, in the hope that one day our movements will grow to meet our demands.
+
+And that growth can create a virtuous cycle. The more people see collective accountability in action, the more they’ll believe that it’s possible, in all walks of life.
