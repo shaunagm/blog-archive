@@ -2,7 +2,6 @@
 ---
 layout: post
 title: Hello World
-slug: /HelloGovernor/:title:
 categories: [HelloGovernor]
 date: 2021-2-25
 tags: governance
