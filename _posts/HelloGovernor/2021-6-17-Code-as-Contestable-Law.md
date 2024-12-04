@@ -16,11 +16,11 @@ For those who don’t know anything about [Kybern.org](https://www.kybern.org/?u
 
 Communities govern actions by setting permissions. Every time a user takes an action, it’s turned into an action object and checked against the existing permission system. Here’s a screen grab of a person taking an action, which also shows the permissions set in that group and the way that action is recorded in the action history:
 
-<img align="left" width="560" src="{{ site.baseurl }}/assets/image/screenrecording1.gif">  
+<img align="left" width="560" src="{{ site.baseurl }}/assets/image/screenrecording1.gif"><br/>
 
 But what about an action a user can’t take? Usually, those actions are completely hidden from them. This design makes it very difficult to know what actions are possible, and to contest your right to take those actions. So on Kybern.org, we show every user all possible actions, and give them the ability to _propose_ any action:
 
-<img align="left" width="560" src="{{ site.baseurl }}/assets/image/screenrecording2.gif">  
+<img align="left" width="560" src="{{ site.baseurl }}/assets/image/screenrecording2.gif"><br/>  
 
 This isn’t as far as we could go. We could also let anyone take an action, even if they don’t have permission.
 
