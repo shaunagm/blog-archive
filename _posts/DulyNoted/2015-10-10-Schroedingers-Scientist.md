@@ -3,7 +3,7 @@ layout: post
 title: Schroedinger’s Scientist
 category: DulyNoted
 date: 2015-10-10
-tags: science statistics plays
+tags: science statistics plays shorts
 permalink: /DulyNoted/Schroedingers-Scientist/
 original_url: https://buttondown.com/HelloGovernor/archive/february-2021-hello-world/
 ---
